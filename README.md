@@ -97,10 +97,6 @@ You can access the application through your web browser by navigating to `http:/
 If you need to define your own port for accessing the application, you can do so by configuring it in the `application.properties` file. Simply specify the desired port number in the configuration file, and the application will listen on that port upon startup.
 
 
-
-## Documentations :
-* For Testing Apis  you can use **Postman** [Documentation](https://documenter.getpostman.com/view/27811473/2sA3BuVokU).
-* For better understanding of Endpoints and also you can tests All Endpoints with  **Swagger-UI** [Documentation](http://localhost:8080/swagger-ui/index.html#/)
 ### Author
  👨‍💼 **Anurag Shukla**
  
